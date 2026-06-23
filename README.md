@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -121,4 +124,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
