@@ -23,6 +23,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,5 @@
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 <!---LeetCode Topics End-->
