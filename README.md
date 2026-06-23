@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,5 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
