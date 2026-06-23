@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -39,6 +40,7 @@
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0414-third-maximum-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
