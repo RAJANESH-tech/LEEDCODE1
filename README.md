@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0088-merge-sorted-array/) | Easy |
@@ -46,6 +47,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0088-merge-sorted-array/) | Easy |
@@ -110,4 +112,8 @@
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
