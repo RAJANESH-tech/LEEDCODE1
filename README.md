@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0283-move-zeroes/) | Easy |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -60,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Matrix
