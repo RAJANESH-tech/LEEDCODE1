@@ -26,6 +26,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0283-move-zeroes/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
