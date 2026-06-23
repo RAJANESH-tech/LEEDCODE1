@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 <!---LeetCode Topics End-->
