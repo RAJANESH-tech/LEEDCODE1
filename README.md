@@ -12,6 +12,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
