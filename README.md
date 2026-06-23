@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -43,6 +45,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -105,6 +108,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -129,4 +133,8 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
