@@ -25,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0136-single-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
