@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
@@ -146,5 +148,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
