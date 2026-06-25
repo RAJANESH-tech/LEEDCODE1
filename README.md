@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -103,6 +104,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -152,5 +155,6 @@
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
