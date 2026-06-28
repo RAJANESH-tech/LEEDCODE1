@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0242-valid-anagram/) | Easy |
@@ -128,6 +129,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0242-valid-anagram/) | Easy |
@@ -153,6 +155,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
