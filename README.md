@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -46,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
