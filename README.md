@@ -26,6 +26,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -94,6 +95,7 @@
 | [0136-single-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
+| [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -167,4 +170,8 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
