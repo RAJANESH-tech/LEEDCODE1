@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     static int c=0;
     static int n=0,m=0;
     static boolean f(int i,int j,int d1,int d2,int [][]grid,int [][]s)
