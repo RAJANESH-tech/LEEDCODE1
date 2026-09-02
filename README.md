@@ -26,6 +26,7 @@
 | [0414-third-maximum-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0611-valid-triangle-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -69,6 +70,7 @@
 | [0389-find-the-difference](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
+| [0611-valid-triangle-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0611-valid-triangle-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@
 | [0392-is-subsequence](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
+| [0611-valid-triangle-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0611-valid-triangle-number/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -126,6 +129,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0611-valid-triangle-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -162,6 +166,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0455-assign-cookies/) | Easy |
+| [0611-valid-triangle-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0611-valid-triangle-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
