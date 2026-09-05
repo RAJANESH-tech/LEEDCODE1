@@ -57,6 +57,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0169-majority-element/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | [0917-reverse-only-letters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0917-reverse-only-letters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -184,6 +187,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
