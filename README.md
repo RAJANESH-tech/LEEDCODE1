@@ -118,6 +118,7 @@
 | [0009-palindrome-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0268-missing-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@
 | [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
