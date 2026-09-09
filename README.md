@@ -212,4 +212,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
