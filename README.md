@@ -221,12 +221,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/RAJANESH-tech/LEEDCODE1/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
